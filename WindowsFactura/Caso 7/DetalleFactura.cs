@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WindowsFactura.Entidades
 {
-    public class DetalleFactura: Factura
+    public class DetalleFactura
     {
 
         public decimal Importe { get; set; }
