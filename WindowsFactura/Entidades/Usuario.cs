@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WindowsFactura.Entidades
 {
-    public class Usuario
+    public class Usuario { 
     
         public Cliente Cliente { get; set; }
     }
