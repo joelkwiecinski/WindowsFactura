@@ -56,13 +56,14 @@
     <Compile Include="Caso 4\Docente.cs" />
     <Compile Include="Caso 6\Clinica.cs" />
     <Compile Include="Caso 6\Director.cs" />
-    <Compile Include="Caso 7\Categoria.cs" />
-    <Compile Include="Caso 7\Cliente.cs" />
-    <Compile Include="Caso 7\DetalleFactura.cs" />
-    <Compile Include="Caso 7\Empleado.cs" />
-    <Compile Include="Caso 7\Factura.cs" />
-    <Compile Include="Caso 7\Producto.cs" />
-    <Compile Include="Caso 7\Usuario.cs" />
+    <Compile Include="Entidades\Categoria.cs" />
+    <Compile Include="Entidades\Cliente.cs" />
+    <Compile Include="Entidades\DetalleFactura.cs" />
+    <Compile Include="Entidades\Empleado.cs" />
+    <Compile Include="Entidades\Factura.cs" />
+    <Compile Include="Entidades\Persona.cs" />
+    <Compile Include="Entidades\Producto.cs" />
+    <Compile Include="Entidades\Usuario.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace WindowsFactura.Entidades
 {
-    public class Empleado: Usuario
+    public class Empleado: Persona
     {
 
         public int Legajo { get; set; }
-        public List<Factura> Facturas { get; set; }
 
     }
 }
